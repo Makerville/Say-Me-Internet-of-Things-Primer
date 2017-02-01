@@ -1,10 +1,6 @@
 # Say Me - Internet of Things Primer
 
-
-
 > _primer_ - any book of elementary principles
-
-
 
 Internet of Things or IoT will be playing an important role for humanity in the decades to come. It holds promise .
 
@@ -14,7 +10,7 @@ In this book, we are going to take a look at some of the different components th
 
 ### Part 2
 
-### Part 3
+### Part 3 
 
 
 
