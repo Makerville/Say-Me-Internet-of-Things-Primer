@@ -18,5 +18,5 @@ In this book, we are going to take a look at some of the different components th
 
 ---
 
-&lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;&lt;img](http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;&lt;img) alt="Creative Commons License" style="border-width:0" src="[https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative](http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative) Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.
+&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt; &lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.
 
