@@ -8,19 +8,15 @@ In this book, we are going to take a look at some of the different components th
 
 ### 1 - Blinking an LED
 
-### 2 - 
+### 2 -
 
-### 3 - 
+### 3 -
 
 ### 4 - Resources and further reading
-
-
 
 **YMMV** - This book is meant to introduce the readers to the different moving parts of a connected device. It is by no means a comprehensive guide. As such, the content will be opinionated and we suggest using this book only as a primer.
 
 ---
 
-&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.
-
-
+&lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;&lt;img](http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;&lt;img) alt="Creative Commons License" style="border-width:0" src="[https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative](http://creativecommons.org/licenses/by-nc-nd/4.0/"&gt;Creative) Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.
 
