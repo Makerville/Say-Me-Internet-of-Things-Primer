@@ -8,5 +8,6 @@
  * MQTT
  * Things, types and shadows
 * Rules as bridges
+ * Understanding the syntax
 * 
 
