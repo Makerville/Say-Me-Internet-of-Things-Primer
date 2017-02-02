@@ -7,5 +7,6 @@
 * [MQTT and Shadows](mqtt-and-shadows.md)
  * MQTT
  * Things, types and shadows
-* Rules
+* Rules as bridges
+* 
 
