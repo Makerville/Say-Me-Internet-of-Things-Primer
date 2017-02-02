@@ -4,7 +4,7 @@
 
 Internet of Things or IoT will be playing an important role in our lives. Somewhat similar to the gradual and then fast evolution of personal computers, connected devices have the potential to alter the course of humanity profoundly.
 
-In this book, we are going to take a look at some of the different components that go into building a connected device. Each of the following parts will be a hands-on guide -
+In this book, we are going to take a look at some of the different components that go into building a connected device. We will be relying heavily on AWS services Each of the following parts will be a hands-on guide -
 
 ### 1 - Blinking an LED
 
@@ -12,7 +12,13 @@ In this book, we are going to take a look at some of the different components th
 
 ### 3 - Rules as bridges
 
+### 4 - Managing data flows
+
 ### 4 - Maps and graphs
+
+### 5 - Security
+
+### 6 - 
 
 ---
 
